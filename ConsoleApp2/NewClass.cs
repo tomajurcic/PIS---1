@@ -8,4 +8,9 @@ namespace ConsoleApp2
     class NewClass
     {
     }
+    class a
+    {
+    //nova klasa
+    }
 }
+
