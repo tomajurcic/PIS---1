@@ -10,7 +10,7 @@ namespace ConsoleApp2
     }
     class a
     {
-    //nova klasa
+    //nova klasa kkkk
     }
 }
 
