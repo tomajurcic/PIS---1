@@ -11,6 +11,7 @@ namespace ConsoleApp2
         {
             Console.WriteLine("Hello World");
             //420
+            //ispravka
         }
     }
 }
